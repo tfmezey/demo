@@ -1,0 +1,17 @@
+bin
+build
+builds
+.kdev4
+lib/*
+vgcore*
+.txt
+wtf1/*.txt
+retired
+cloning.txt
+time.txt
+thetaplot.txt
+kinetic.txt
+potential.txt
+rplot.txt
+thetaplot.txt
+*.kdev4
